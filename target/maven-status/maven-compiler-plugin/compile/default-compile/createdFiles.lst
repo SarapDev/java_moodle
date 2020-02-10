@@ -1,0 +1,7 @@
+com/moodle/config/SpringConfig.class
+com/moodle/config/WebAppInitializer.class
+com/moodle/config/WebConfig.class
+com/moodle/dao/UserDAO.class
+com/moodle/service/UserSerive.class
+com/moodle/service/TetsBean.class
+com/moodle/controller/UserController.class
