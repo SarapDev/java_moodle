@@ -1,10 +1,11 @@
 package com.moodle.entity;
 
 public class User {
+
     private int id;
     private String name;
     private String email;
-    private int age;
+    private int personType;
 
     public User() {
 
@@ -34,11 +35,11 @@ public class User {
         this.email = email;
     }
 
-    public int getAge() {
-        return age;
+    public int getPersonType() {
+        return personType;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setPersonType(int personType) {
+        this.personType = personType;
     }
 }

@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1>Hello, Java Spring</h1>
+    <a href="/users">Users list</a>
 </body>
 </html>
