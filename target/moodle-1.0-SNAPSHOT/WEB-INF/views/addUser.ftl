@@ -14,7 +14,7 @@
         <label>Email</label>
         <input type="text" name="email" title="Email">
         <label>Person type</label>
-        <input type="number" name="person_type" title="Person Type">
+        <input type="number" name="personType" title="Person Type">
 
         <button type="submit">Submit</button>
     </form>

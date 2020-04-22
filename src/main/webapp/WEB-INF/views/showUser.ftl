@@ -21,6 +21,10 @@
             <td>EMAIL</td>
             <td>${user.email}</td>
         </tr>
+        <tr>
+            <td>PERSON TYPE</td>
+            <td>${user.personType}</td>
+        </tr>
     </table>
 
     <br>
